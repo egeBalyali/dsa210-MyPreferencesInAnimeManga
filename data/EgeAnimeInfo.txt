@@ -1,0 +1,357 @@
+ID: 9513
+Name: Beelzebub
+Progress: 4 
+              //60
+Score: 6
+----------------------------------------
+ID: 1535
+Name: Death Note
+Progress: 22 
+              //37
+Score: 8
+----------------------------------------
+ID: 40052
+Name: Great Pretender
+Progress: 12 
+              //23
+Score: 8
+----------------------------------------
+ID: 30831
+Name: Kono Subarashii Sekai ni Shukufuku wo!
+Progress: 5 
+              //10
+Score: 7
+----------------------------------------
+ID: 32937
+Name: Kono Subarashii Sekai ni Shukufuku wo! 2
+Progress: 1 
+              //10
+Score: -
+----------------------------------------
+ID: 20
+Name: Naruto
+Progress: 130 
+              //220
+Score: 7
+----------------------------------------
+ID: 1735
+Name: Naruto: Shippuuden
+Progress: 300 
+              //500
+Score: 7
+----------------------------------------
+ID: 2001
+Name: Tengen Toppa Gurren Lagann
+Progress: - 
+              //27
+Score: -
+----------------------------------------
+ID: 35507
+Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+Progress: 4 
+              //12
+Score: -
+----------------------------------------
+ID: 481
+Name: Yu☆Gi☆Oh! Duel Monsters
+Progress: 150 
+              //224
+Score: 7
+----------------------------------------
+ID: 10015
+Name: Yu☆Gi☆Oh! Zexal
+Progress: 24 
+              //73
+Score: 8
+----------------------------------------
+ID: 24833
+Name: Ansatsu Kyoushitsu
+Progress: 22
+Score: 9
+----------------------------------------
+ID: 30654
+Name: Ansatsu Kyoushitsu 2nd Season
+Progress: 25
+Score: 9
+----------------------------------------
+ID: 39195
+Name: Beastars
+Progress: 12
+Score: 9
+----------------------------------------
+ID: 40935
+Name: Beastars 2nd Season
+Progress: 12
+Score: 7
+----------------------------------------
+ID: 49596
+Name: Blue Lock
+Progress: 24
+Score: 10
+----------------------------------------
+ID: 31964
+Name: Boku no Hero Academia
+Progress: 13
+Score: 9
+----------------------------------------
+ID: 33486
+Name: Boku no Hero Academia 2nd Season
+Progress: 25
+Score: 9
+----------------------------------------
+ID: 36456
+Name: Boku no Hero Academia 3rd Season
+Progress: 25
+Score: 9
+----------------------------------------
+ID: 1575
+Name: Code Geass: Hangyaku no Lelouch
+Progress: 25
+Score: 9
+----------------------------------------
+ID: 2904
+Name: Code Geass: Hangyaku no Lelouch R2
+Progress: 25
+Score: 10
+----------------------------------------
+ID: 28223
+Name: Death Parade
+Progress: 12
+Score: 7
+----------------------------------------
+ID: 5114
+Name: Fullmetal Alchemist: Brotherhood
+Progress: 64
+Score: 10
+----------------------------------------
+ID: 20583
+Name: Haikyuu!!
+Progress: 25
+Score: 9
+----------------------------------------
+ID: 15809
+Name: Hataraku Maou-sama!
+Progress: 13
+Score: 9
+----------------------------------------
+ID: 11061
+Name: Hunter x Hunter (2011)
+Progress: 148
+Score: 8
+----------------------------------------
+ID: 42361
+Name: Ijiranaide, Nagatoro-san
+Progress: 12
+Score: 7
+----------------------------------------
+ID: 40748
+Name: Jujutsu Kaisen
+Progress: 24
+Score: 9
+----------------------------------------
+ID: 37999
+Name: Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+Progress: 12
+Score: 10
+----------------------------------------
+ID: 38000
+Name: Kimetsu no Yaiba
+Progress: 26
+Score: 9
+----------------------------------------
+ID: 32281
+Name: Kimi no Na wa.
+Progress: 1
+Score: 10
+----------------------------------------
+ID: 22535
+Name: Kiseijuu: Sei no Kakuritsu
+Progress: 24
+Score: 9
+----------------------------------------
+ID: 11771
+Name: Kuroko no Basket
+Progress: 25
+Score: 7
+----------------------------------------
+ID: 16894
+Name: Kuroko no Basket 2nd Season
+Progress: 25
+Score: 7
+----------------------------------------
+ID: 24415
+Name: Kuroko no Basket 3rd Season
+Progress: 25
+Score: 7
+----------------------------------------
+ID: 18115
+Name: Magi: The Kingdom of Magic
+Progress: 25
+Score: -
+----------------------------------------
+ID: 10620
+Name: Mirai Nikki (TV)
+Progress: 26
+Score: 10
+----------------------------------------
+ID: 16762
+Name: Mirai Nikki: Redial
+Progress: 1
+Score: 9
+----------------------------------------
+ID: 32182
+Name: Mob Psycho 100
+Progress: 12
+Score: 10
+----------------------------------------
+ID: 37510
+Name: Mob Psycho 100 II
+Progress: 13
+Score: 10
+----------------------------------------
+ID: 39535
+Name: Mushoku Tensei: Isekai Ittara Honki Dasu
+Progress: 11
+Score: -
+----------------------------------------
+ID: 19815
+Name: No Game No Life
+Progress: 12
+Score: 8
+----------------------------------------
+ID: 30503
+Name: Noragami Aragoto
+Progress: 13
+Score: 8
+----------------------------------------
+ID: 5040
+Name: One Outs
+Progress: 25
+Score: 8
+----------------------------------------
+ID: 30276
+Name: One Punch Man
+Progress: 12
+Score: 9
+----------------------------------------
+ID: 40834
+Name: Ousama Ranking
+Progress: 23
+Score: 9
+----------------------------------------
+ID: 29803
+Name: Overlord
+Progress: 13
+Score: 8
+----------------------------------------
+ID: 35073
+Name: Overlord II
+Progress: 13
+Score: 7
+----------------------------------------
+ID: 37675
+Name: Overlord III
+Progress: 13
+Score: 7
+----------------------------------------
+ID: 30015
+Name: ReLIFE
+Progress: 13
+Score: 8
+----------------------------------------
+ID: 16498
+Name: Shingeki no Kyojin
+Progress: 25
+Score: 7
+----------------------------------------
+ID: 25777
+Name: Shingeki no Kyojin Season 2
+Progress: 12
+Score: -
+----------------------------------------
+ID: 38524
+Name: Shingeki no Kyojin Season 3 Part 2
+Progress: 10
+Score: 9
+----------------------------------------
+ID: 9253
+Name: Steins;Gate
+Progress: 24
+Score: 7
+----------------------------------------
+ID: 11577
+Name: Steins;Gate Movie: Fuka Ryouiki no Déjà vu
+Progress: 1
+Score: 6
+----------------------------------------
+ID: 11757
+Name: Sword Art Online
+Progress: 25
+Score: 4
+----------------------------------------
+ID: 21881
+Name: Sword Art Online II
+Progress: 24
+Score: 5
+----------------------------------------
+ID: 38826
+Name: Tenki no Ko
+Progress: 1
+Score: 7
+----------------------------------------
+ID: 759
+Name: Tokyo Godfathers
+Progress: 1
+Score: 8
+----------------------------------------
+ID: 37521
+Name: Vinland Saga
+Progress: 24
+Score: 9
+----------------------------------------
+ID: 37779
+Name: Yakusoku no Neverland
+Progress: 12
+Score: 9
+----------------------------------------
+ID: 482
+Name: Yu☆Gi☆Oh! Duel Monsters GX
+Progress: 180
+Score: 7
+----------------------------------------
+ID: 820
+Name: Ginga Eiyuu Densetsu
+Progress: - 
+              //110
+Score: -
+----------------------------------------
+ID: 18153
+Name: Kyoukai no Kanata
+Progress: - 
+              //12
+Score: -
+----------------------------------------
+ID: 28675
+Name: Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
+Progress: - 
+              //1
+Score: -
+----------------------------------------
+ID: 25835
+Name: Shirobako
+Progress: - 
+              //24
+Score: -
+----------------------------------------
+ID: 38480
+Name: Toaru Kagaku no Accelerator
+Progress: - 
+              //12
+Score: -
+----------------------------------------
+ID: 43299
+Name: Wonder Egg Priority
+Progress: - 
+              //12
+Score: -
+----------------------------------------

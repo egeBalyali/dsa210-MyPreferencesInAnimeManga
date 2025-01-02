@@ -1,0 +1,588 @@
+ID: 132247
+Name: A Returner's Magic Should Be Special
+Progress: 261 
+              //268
+Score: 8
+----------------------------------------
+ID: 49865
+Name: Ajin
+Progress: 74 
+              //84
+Score: 10
+----------------------------------------
+ID: 1101
+Name: Akumetsu
+Progress: 97 
+              //162
+Score: -
+----------------------------------------
+ID: 102256
+Name: Ao Ashi
+Progress: 391 
+              //-
+Score: 9
+----------------------------------------
+ID: 142
+Name: Battle Royale
+Progress: 9 
+              //119
+Score: -
+----------------------------------------
+ID: 114745
+Name: Blue Lock
+Progress: 200 
+              //-
+Score: 10
+----------------------------------------
+ID: 75989
+Name: Boku no Hero Academia
+Progress: 306 
+              //432
+Score: 6
+----------------------------------------
+ID: 35171
+Name: Can't See Can't Hear But Love
+Progress: 13 
+              //83
+Score: -
+----------------------------------------
+ID: 1131
+Name: Freesia
+Progress: 5 
+              //84
+Score: -
+----------------------------------------
+ID: 70345
+Name: Grand Blue
+Progress: 62 
+              //-
+Score: 8
+----------------------------------------
+ID: 7
+Name: Hajime no Ippo
+Progress: 913 
+              //-
+Score: 7
+----------------------------------------
+ID: 77637
+Name: Helck
+Progress: - 
+              //111
+Score: -
+----------------------------------------
+ID: 102504
+Name: Kashikomarimashita, Destiny
+Progress: 6 
+              //9
+Score: 7
+----------------------------------------
+ID: 16765
+Name: Kingdom
+Progress: 643 
+              //-
+Score: 10
+----------------------------------------
+ID: 91941
+Name: Made in Abyss
+Progress: 55 
+              //-
+Score: 9
+----------------------------------------
+ID: 124085
+Name: Mashle
+Progress: 100 
+              //162
+Score: 8
+----------------------------------------
+ID: 130639
+Name: Mosquito War
+Progress: 18 
+              //49
+Score: 8
+----------------------------------------
+ID: 418
+Name: Mushishi
+Progress: 3 
+              //50
+Score: 7
+----------------------------------------
+ID: 163356
+Name: Ogami Tsumiki to Ki Nichijou.
+Progress: 12 
+              //-
+Score: 8
+----------------------------------------
+ID: 132214
+Name: Omniscient Reader's Viewpoint
+Progress: 223 
+              //-
+Score: 10
+----------------------------------------
+ID: 13
+Name: One Piece
+Progress: 794 
+              //-
+Score: 8
+----------------------------------------
+ID: 2895
+Name: Piano no Mori
+Progress: 64 
+              //242
+Score: 9
+----------------------------------------
+ID: 988
+Name: Shijou Saikyou no Deshi Kenichi
+Progress: 213 
+              //584
+Score: 7
+----------------------------------------
+ID: 23390
+Name: Shingeki no Kyojin
+Progress: 120 
+              //141
+Score: 9
+----------------------------------------
+ID: 110485
+Name: Shuumatsu no Walküre
+Progress: 31 
+              //-
+Score: 8
+----------------------------------------
+ID: 51
+Name: Slam Dunk
+Progress: 78 
+              //276
+Score: -
+----------------------------------------
+ID: 121496
+Name: Solo Leveling
+Progress: 148 
+              //201
+Score: 9
+----------------------------------------
+ID: 110031
+Name: Summertime Render
+Progress: 105 
+              //139
+Score: 6
+----------------------------------------
+ID: 67615
+Name: Tate no Yuusha no Nariagari
+Progress: 54 
+              //-
+Score: 9
+----------------------------------------
+ID: 87609
+Name: Tensei shitara Slime Datta Ken
+Progress: 37 
+              //-
+Score: 7
+----------------------------------------
+ID: 146867
+Name: The Breaker: Eternal Force
+Progress: 100 
+              //-
+Score: 7
+----------------------------------------
+ID: 147272
+Name: The Greatest Estate Developer
+Progress: 120 
+              //-
+Score: 9
+----------------------------------------
+ID: 146827
+Name: The Lazy Lord Masters the Sword
+Progress: 106 
+              //-
+Score: 8
+----------------------------------------
+ID: 146761
+Name: The Skeleton Soldier Failed to Defend the Dungeon
+Progress: 29 
+              //-
+Score: 6
+----------------------------------------
+ID: 122663
+Name: Tower of God
+Progress: 121 
+              //-
+Score: 7
+----------------------------------------
+ID: 123956
+Name: Undead Unluck
+Progress: 208 
+              //-
+Score: 9
+----------------------------------------
+ID: 656
+Name: Vagabond
+Progress: 267 
+              //327
+Score: 7
+----------------------------------------
+ID: 642
+Name: Vinland Saga
+Progress: 174 
+              //-
+Score: 9
+----------------------------------------
+ID: 86981
+Name: Yakushoku Distopiary
+Progress: - 
+              //35
+Score: 7
+----------------------------------------
+ID: 3
+Name: 20th Century Boys
+Progress: 249
+Score: 10
+----------------------------------------
+ID: 743
+Name: 21st Century Boys
+Progress: 16
+Score: 8
+----------------------------------------
+ID: 24705
+Name: Aku no Hana
+Progress: 58
+Score: 8
+----------------------------------------
+ID: 30079
+Name: Annarasumanara
+Progress: 27
+Score: 9
+----------------------------------------
+ID: 111213
+Name: Bastard
+Progress: 94
+Score: 10
+----------------------------------------
+ID: 103701
+Name: Beastars
+Progress: 196
+Score: 6
+----------------------------------------
+ID: 4068
+Name: BioMeat: Nectar
+Progress: 105
+Score: 8
+----------------------------------------
+ID: 20593
+Name: Btooom!
+Progress: 125
+Score: 7
+----------------------------------------
+ID: 116778
+Name: Chainsaw Man
+Progress: -
+Score: 10
+----------------------------------------
+ID: 104271
+Name: Chi no Wadachi
+Progress: 153
+Score: 10
+----------------------------------------
+ID: 3986
+Name: Deadman Wonderland
+Progress: 58
+Score: 9
+----------------------------------------
+ID: 147443
+Name: Dice
+Progress: 388
+Score: 7
+----------------------------------------
+ID: 5293
+Name: Doubt
+Progress: 21
+Score: 7
+----------------------------------------
+ID: 98270
+Name: Fire Punch
+Progress: 83
+Score: 10
+----------------------------------------
+ID: 14582
+Name: Gamaran
+Progress: 194
+Score: 4
+----------------------------------------
+ID: 564
+Name: Gantz
+Progress: 383
+Score: 8
+----------------------------------------
+ID: 909
+Name: Gyo: Ugomeku Bukimi
+Progress: 21
+Score: 7
+----------------------------------------
+ID: 146944
+Name: Hardcore Leveling Warrior
+Progress: 317
+Score: 8
+----------------------------------------
+ID: 28361
+Name: Hideout
+Progress: 9
+Score: 7
+----------------------------------------
+ID: 3285
+Name: Holyland
+Progress: 182
+Score: 10
+----------------------------------------
+ID: 936
+Name: Homunculus
+Progress: 166
+Score: 9
+----------------------------------------
+ID: 33031
+Name: Imawa no Kuni no Alice
+Progress: 87
+Score: 8
+----------------------------------------
+ID: 125902
+Name: Itaewon Class
+Progress: 80
+Score: 9
+----------------------------------------
+ID: 112318
+Name: Jigokuraku
+Progress: 128
+Score: 7
+----------------------------------------
+ID: 113138
+Name: Jujutsu Kaisen
+Progress: 271
+Score: 9
+----------------------------------------
+ID: 115710
+Name: Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou
+Progress: 4
+Score: 9
+----------------------------------------
+ID: 121079
+Name: Killing Stalking
+Progress: 67
+Score: 10
+----------------------------------------
+ID: 96792
+Name: Kimetsu no Yaiba
+Progress: 207
+Score: 9
+----------------------------------------
+ID: 56805
+Name: Koe no Katachi
+Progress: 64
+Score: 8
+----------------------------------------
+ID: 7375
+Name: Kokou no Hito
+Progress: 170
+Score: 8
+----------------------------------------
+ID: 1649
+Name: Liar Game
+Progress: 203
+Score: 10
+----------------------------------------
+ID: 147168
+Name: Light and Shadow
+Progress: -
+Score: 6
+----------------------------------------
+ID: 40175
+Name: Mahou Shoujo of the End
+Progress: 64
+Score: 7
+----------------------------------------
+ID: 60783
+Name: Mob Psycho 100
+Progress: 109
+Score: 10
+----------------------------------------
+ID: 1
+Name: Monster
+Progress: 162
+Score: 10
+----------------------------------------
+ID: 143441
+Name: Omniscient Reader's Viewpoint
+Progress: 105
+Score: 10
+----------------------------------------
+ID: 11327
+Name: One Outs
+Progress: 175
+Score: 9
+----------------------------------------
+ID: 44347
+Name: One Punch-Man
+Progress: -
+Score: 9
+----------------------------------------
+ID: 4632
+Name: Oyasumi Punpun
+Progress: 147
+Score: 10
+----------------------------------------
+ID: 146750
+Name: Pigpen
+Progress: 68
+Score: 8
+----------------------------------------
+ID: 745
+Name: Pluto
+Progress: 65
+Score: 10
+----------------------------------------
+ID: 78523
+Name: ReLIFE
+Progress: 238
+Score: 9
+----------------------------------------
+ID: 8848
+Name: Sun-Ken Rock
+Progress: 181
+Score: 9
+----------------------------------------
+ID: 124845
+Name: Sweet Home
+Progress: 141
+Score: 9
+----------------------------------------
+ID: 142600
+Name: Takopii no Genzai
+Progress: 16
+Score: 10
+----------------------------------------
+ID: 63845
+Name: Tenkuu Shinpan
+Progress: 258
+Score: 9
+----------------------------------------
+ID: 141120
+Name: The Boxer
+Progress: 123
+Score: 9
+----------------------------------------
+ID: 8586
+Name: The Breaker
+Progress: 72
+Score: 9
+----------------------------------------
+ID: 22651
+Name: The Breaker: New Waves
+Progress: 203
+Score: 9
+----------------------------------------
+ID: 5767
+Name: The Flowers of Evil
+Progress: 26
+Score: 8
+----------------------------------------
+ID: 125036
+Name: The Horizon
+Progress: 21
+Score: 10
+----------------------------------------
+ID: 436
+Name: Uzumaki
+Progress: 19
+Score: 10
+----------------------------------------
+ID: 1076
+Name: Vagrant Soldier Ares
+Progress: 207
+Score: 9
+----------------------------------------
+ID: 100128
+Name: Yakusoku no Neverland
+Progress: 181
+Score: 8
+----------------------------------------
+ID: 123699
+Name: Death Note: Tokubetsu Yomikiri
+Progress: - 
+              //1
+Score: -
+----------------------------------------
+ID: 102343
+Name: Fumetsu no Anata e
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 85968
+Name: Golden Kamuy
+Progress: - 
+              //314
+Score: -
+----------------------------------------
+ID: 64465
+Name: Inuyashiki
+Progress: - 
+              //85
+Score: -
+----------------------------------------
+ID: 70259
+Name: Mushoku Tensei: Isekai Ittara Honki Dasu
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 165175
+Name: Nebula's Civilization
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 8967
+Name: Onanie Master Kurosawa
+Progress: - 
+              //31
+Score: -
+----------------------------------------
+ID: 147538
+Name: Return to Player
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 727
+Name: Shamo
+Progress: - 
+              //338
+Score: -
+----------------------------------------
+ID: 104565
+Name: Tokyo卍Revengers
+Progress: 171 
+              //279
+Score: -
+----------------------------------------
+ID: 153518
+Name: Tyrant of the Tower Defense Game
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 139164
+Name: Viral Hit
+Progress: - 
+              //218
+Score: -
+----------------------------------------
+ID: 48151
+Name: World Trigger
+Progress: - 
+              //-
+Score: -
+----------------------------------------
+ID: 49295
+Name: Yuusen Shoujo: Plug-in Girl
+Progress: - 
+              //16
+Score: -
+----------------------------------------

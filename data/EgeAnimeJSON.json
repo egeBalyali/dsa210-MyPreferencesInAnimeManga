@@ -1,0 +1,410 @@
+[
+    {
+        "id": "9513",
+        "name": "Beelzebub",
+        "progress": "4 \n              //60",
+        "score": "6"
+    },
+    {
+        "id": "1535",
+        "name": "Death Note",
+        "progress": "22 \n              //37",
+        "score": "8"
+    },
+    {
+        "id": "40052",
+        "name": "Great Pretender",
+        "progress": "12 \n              //23",
+        "score": "8"
+    },
+    {
+        "id": "30831",
+        "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "progress": "5 \n              //10",
+        "score": "7"
+    },
+    {
+        "id": "32937",
+        "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "progress": "1 \n              //10",
+        "score": "-"
+    },
+    {
+        "id": "20",
+        "name": "Naruto",
+        "progress": "130 \n              //220",
+        "score": "7"
+    },
+    {
+        "id": "1735",
+        "name": "Naruto: Shippuuden",
+        "progress": "300 \n              //500",
+        "score": "7"
+    },
+    {
+        "id": "2001",
+        "name": "Tengen Toppa Gurren Lagann",
+        "progress": "- \n              //27",
+        "score": "-"
+    },
+    {
+        "id": "35507",
+        "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "progress": "4 \n              //12",
+        "score": "-"
+    },
+    {
+        "id": "481",
+        "name": "Yu☆Gi☆Oh! Duel Monsters",
+        "progress": "150 \n              //224",
+        "score": "7"
+    },
+    {
+        "id": "10015",
+        "name": "Yu☆Gi☆Oh! Zexal",
+        "progress": "24 \n              //73",
+        "score": "8"
+    },
+    {
+        "id": "24833",
+        "name": "Ansatsu Kyoushitsu",
+        "progress": "22",
+        "score": "9"
+    },
+    {
+        "id": "30654",
+        "name": "Ansatsu Kyoushitsu 2nd Season",
+        "progress": "25",
+        "score": "9"
+    },
+    {
+        "id": "39195",
+        "name": "Beastars",
+        "progress": "12",
+        "score": "9"
+    },
+    {
+        "id": "40935",
+        "name": "Beastars 2nd Season",
+        "progress": "12",
+        "score": "7"
+    },
+    {
+        "id": "49596",
+        "name": "Blue Lock",
+        "progress": "24",
+        "score": "10"
+    },
+    {
+        "id": "31964",
+        "name": "Boku no Hero Academia",
+        "progress": "13",
+        "score": "9"
+    },
+    {
+        "id": "33486",
+        "name": "Boku no Hero Academia 2nd Season",
+        "progress": "25",
+        "score": "9"
+    },
+    {
+        "id": "36456",
+        "name": "Boku no Hero Academia 3rd Season",
+        "progress": "25",
+        "score": "9"
+    },
+    {
+        "id": "1575",
+        "name": "Code Geass: Hangyaku no Lelouch",
+        "progress": "25",
+        "score": "9"
+    },
+    {
+        "id": "2904",
+        "name": "Code Geass: Hangyaku no Lelouch R2",
+        "progress": "25",
+        "score": "10"
+    },
+    {
+        "id": "28223",
+        "name": "Death Parade",
+        "progress": "12",
+        "score": "7"
+    },
+    {
+        "id": "5114",
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "progress": "64",
+        "score": "10"
+    },
+    {
+        "id": "20583",
+        "name": "Haikyuu!!",
+        "progress": "25",
+        "score": "9"
+    },
+    {
+        "id": "15809",
+        "name": "Hataraku Maou-sama!",
+        "progress": "13",
+        "score": "9"
+    },
+    {
+        "id": "11061",
+        "name": "Hunter x Hunter (2011)",
+        "progress": "148",
+        "score": "8"
+    },
+    {
+        "id": "42361",
+        "name": "Ijiranaide, Nagatoro-san",
+        "progress": "12",
+        "score": "7"
+    },
+    {
+        "id": "40748",
+        "name": "Jujutsu Kaisen",
+        "progress": "24",
+        "score": "9"
+    },
+    {
+        "id": "37999",
+        "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "progress": "12",
+        "score": "10"
+    },
+    {
+        "id": "38000",
+        "name": "Kimetsu no Yaiba",
+        "progress": "26",
+        "score": "9"
+    },
+    {
+        "id": "32281",
+        "name": "Kimi no Na wa.",
+        "progress": "1",
+        "score": "10"
+    },
+    {
+        "id": "22535",
+        "name": "Kiseijuu: Sei no Kakuritsu",
+        "progress": "24",
+        "score": "9"
+    },
+    {
+        "id": "11771",
+        "name": "Kuroko no Basket",
+        "progress": "25",
+        "score": "7"
+    },
+    {
+        "id": "16894",
+        "name": "Kuroko no Basket 2nd Season",
+        "progress": "25",
+        "score": "7"
+    },
+    {
+        "id": "24415",
+        "name": "Kuroko no Basket 3rd Season",
+        "progress": "25",
+        "score": "7"
+    },
+    {
+        "id": "18115",
+        "name": "Magi: The Kingdom of Magic",
+        "progress": "25",
+        "score": "-"
+    },
+    {
+        "id": "10620",
+        "name": "Mirai Nikki (TV)",
+        "progress": "26",
+        "score": "10"
+    },
+    {
+        "id": "16762",
+        "name": "Mirai Nikki: Redial",
+        "progress": "1",
+        "score": "9"
+    },
+    {
+        "id": "32182",
+        "name": "Mob Psycho 100",
+        "progress": "12",
+        "score": "10"
+    },
+    {
+        "id": "37510",
+        "name": "Mob Psycho 100 II",
+        "progress": "13",
+        "score": "10"
+    },
+    {
+        "id": "39535",
+        "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "progress": "11",
+        "score": "-"
+    },
+    {
+        "id": "19815",
+        "name": "No Game No Life",
+        "progress": "12",
+        "score": "8"
+    },
+    {
+        "id": "30503",
+        "name": "Noragami Aragoto",
+        "progress": "13",
+        "score": "8"
+    },
+    {
+        "id": "5040",
+        "name": "One Outs",
+        "progress": "25",
+        "score": "8"
+    },
+    {
+        "id": "30276",
+        "name": "One Punch Man",
+        "progress": "12",
+        "score": "9"
+    },
+    {
+        "id": "40834",
+        "name": "Ousama Ranking",
+        "progress": "23",
+        "score": "9"
+    },
+    {
+        "id": "29803",
+        "name": "Overlord",
+        "progress": "13",
+        "score": "8"
+    },
+    {
+        "id": "35073",
+        "name": "Overlord II",
+        "progress": "13",
+        "score": "7"
+    },
+    {
+        "id": "37675",
+        "name": "Overlord III",
+        "progress": "13",
+        "score": "7"
+    },
+    {
+        "id": "30015",
+        "name": "ReLIFE",
+        "progress": "13",
+        "score": "8"
+    },
+    {
+        "id": "16498",
+        "name": "Shingeki no Kyojin",
+        "progress": "25",
+        "score": "7"
+    },
+    {
+        "id": "25777",
+        "name": "Shingeki no Kyojin Season 2",
+        "progress": "12",
+        "score": "-"
+    },
+    {
+        "id": "38524",
+        "name": "Shingeki no Kyojin Season 3 Part 2",
+        "progress": "10",
+        "score": "9"
+    },
+    {
+        "id": "9253",
+        "name": "Steins;Gate",
+        "progress": "24",
+        "score": "7"
+    },
+    {
+        "id": "11577",
+        "name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "progress": "1",
+        "score": "6"
+    },
+    {
+        "id": "11757",
+        "name": "Sword Art Online",
+        "progress": "25",
+        "score": "4"
+    },
+    {
+        "id": "21881",
+        "name": "Sword Art Online II",
+        "progress": "24",
+        "score": "5"
+    },
+    {
+        "id": "38826",
+        "name": "Tenki no Ko",
+        "progress": "1",
+        "score": "7"
+    },
+    {
+        "id": "759",
+        "name": "Tokyo Godfathers",
+        "progress": "1",
+        "score": "8"
+    },
+    {
+        "id": "37521",
+        "name": "Vinland Saga",
+        "progress": "24",
+        "score": "9"
+    },
+    {
+        "id": "37779",
+        "name": "Yakusoku no Neverland",
+        "progress": "12",
+        "score": "9"
+    },
+    {
+        "id": "482",
+        "name": "Yu☆Gi☆Oh! Duel Monsters GX",
+        "progress": "180",
+        "score": "7"
+    },
+    {
+        "id": "820",
+        "name": "Ginga Eiyuu Densetsu",
+        "progress": "- \n              //110",
+        "score": "-"
+    },
+    {
+        "id": "18153",
+        "name": "Kyoukai no Kanata",
+        "progress": "- \n              //12",
+        "score": "-"
+    },
+    {
+        "id": "28675",
+        "name": "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
+        "progress": "- \n              //1",
+        "score": "-"
+    },
+    {
+        "id": "25835",
+        "name": "Shirobako",
+        "progress": "- \n              //24",
+        "score": "-"
+    },
+    {
+        "id": "38480",
+        "name": "Toaru Kagaku no Accelerator",
+        "progress": "- \n              //12",
+        "score": "-"
+    },
+    {
+        "id": "43299",
+        "name": "Wonder Egg Priority",
+        "progress": "- \n              //12",
+        "score": "-"
+    }
+]
