@@ -1,9 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My GitHub Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Form</title>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page!</h1>
+    <h1>Enter URL for Prediction</h1>
+    <form action="/predict" method="POST">
+        <label for="url">URL:</label>
+        <input type="text" id="url" name="url" required>
+        <button type="submit">Predict</button>
+    </form>
+    <div id="result"></div>
 </body>
 </html>
