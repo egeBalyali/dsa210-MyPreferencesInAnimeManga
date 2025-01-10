@@ -12,7 +12,7 @@ The site where I record my watch and read history has almost every anime/manga p
 The important attributes that I will need: {"chapter count", "how many chapters ı read", "is it finished","average score", "genres", "tags", "when was it published"}
 
 
-#Static website in
+##Static website in
 
 https://egebalyali.github.io/dsa210-MyPreferencesInAnimeManga/
 #How To Run With Flask
