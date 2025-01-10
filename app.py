@@ -56,13 +56,14 @@ def predict():
     rating = anime_info.get('rating', 'None')
     genres = [genre['name'] for genre in anime_info.get('genres', [])]
     main_picture = anime_info.get('main_picture', {}).get('large', '')
+    title = anime_info.get('title', 'Unknown Anime')  # Extract title
 
     # Generate prediction (dummy logic here; replace with model prediction)
-    # Load your saved model if needed
     predicted_score = mean + 0.1  # Placeholder logic
 
     return jsonify({
         "anime_id": anime_id,
+        "title": title,
         "predicted_score": predicted_score,
         "main_picture": main_picture,
         "mean": mean,
@@ -70,6 +71,7 @@ def predict():
         "rating": rating,
         "genres": genres
     })
+
 
 if __name__ == '__main__':
     app.run(debug=True)
