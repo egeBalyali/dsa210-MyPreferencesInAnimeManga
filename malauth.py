@@ -3,15 +3,15 @@ import requests
 import webbrowser
 import json
 from dotenv import load_dotenv
-import os
+
 # Load environment variables from the .env file
 load_dotenv()
 # Configuration
-CLIENT_ID = os.getenv("CLIENT_ID")
-CLIENT_SECRET = os.getenv("CLIENT_SECRET")  # May be None if not set
-REDIRECT_URI = os.getenv("REDIRECT_URI")
-AUTH_BASE_URL = os.getenv("AUTH_BASE_URL")
-TOKEN_URL = os.getenv("TOKEN_URL")
+CLIENT_ID = "bdb6a93195d6ef2f4b7b80e7865a6d33"
+CLIENT_SECRET = "b4026adef2807ca6479ae1a49c0ba02066d2d6d29c1154b407f08271b2b8ba1c"  # Optional, only if your app is a "Web" type
+REDIRECT_URI = "http://localhost/oauth"  # Registered redirect URI
+AUTH_BASE_URL = "https://myanimelist.net/v1/oauth2/authorize"
+TOKEN_URL = "https://myanimelist.net/v1/oauth2/token"
 
 def get_new_code_verifier():
     """
@@ -82,13 +82,6 @@ auth_code = input("Enter the authorization code from the URL: ")
 tokens = get_access_token(auth_code, code_verifier)
 print("Access Token and Refresh Token:")
 print(tokens)
-
-# Example of refreshing the Access Token
-if "refresh_token" in tokens:
-    refreshed_tokens = refresh_access_token(tokens["refresh_token"])
-    print("Refreshed Tokens:")
-    print(refreshed_tokens)
-
 
 #output to file
 output_file = "output.json"
