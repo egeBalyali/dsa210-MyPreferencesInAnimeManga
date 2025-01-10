@@ -14,7 +14,8 @@ The important attributes that I will need: {"chapter count", "how many chapters 
 
 ##Static website in
 
-https://egebalyali.github.io/dsa210-MyPreferencesInAnimeManga/
+after downloading click index.html
+
 #How To Run With Flask
 First create a virtual environment with
 python -m venv C:\path\to\new\virtual\environment
