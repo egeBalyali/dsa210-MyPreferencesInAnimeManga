@@ -15,7 +15,6 @@ with open(input_file, "r", encoding="utf-8") as infile:
 data_frame = pd.json_normalize(data, sep='_')
 data_frame['taste_difference'] = data_frame['my_list_status_score'] - data_frame['mean']
 
-"""
 # 1. Popularity vs. Mean Score
 plt.figure(figsize=(8, 6))
 plt.scatter(data_frame['popularity'], data_frame['my_list_status_score'], color='blue', alpha=0.6)
@@ -119,9 +118,7 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.savefig('graphs/genre_vs_mean_score.png')
 plt.show()
-"""
 
-"""
 
 plt.figure(figsize=(10, 6))
 plt.scatter(data_frame['mean'], data_frame['taste_difference'], color='blue', alpha=0.6)
@@ -132,7 +129,7 @@ plt.ylabel('Taste Difference (My Score - Mean Score)')
 plt.legend()
 plt.grid(True)
 plt.savefig('graphs/taste_difference_vs_mean_score.png')
-plt.show()"""
+plt.show()
 
 # Step 1: Explode the genres into separate rows
 data_frame['genres_list'] = data_frame['genres'].apply(lambda x: [g['name'] for g in x])

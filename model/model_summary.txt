@@ -1,0 +1,56 @@
+Model Summary
+========================
+Mean Absolute Error: 6.69
+Mean Squared Error: 89.02
+
+Coefficients:
+               Feature   Coefficient
+    genre_Martial Arts  4.871018e+00
+        genre_Military  3.920903e+00
+   genre_Strategy Game  2.777670e+00
+genre_High Stakes Game  2.776441e+00
+             rating_r+  2.105865e+00
+                  mean  2.049284e+00
+          genre_Comedy  1.800199e+00
+       genre_Adventure  1.729828e+00
+          genre_Seinen  1.656367e+00
+   genre_Psychological  1.595270e+00
+     genre_Super Power  1.552408e+00
+   genre_Award Winning  1.100997e+00
+          genre_Isekai  1.100579e+00
+ genre_Organized Crime  8.614008e-01
+       genre_Mythology  7.935884e-01
+      genre_Video Game  6.783011e-01
+    genre_Love Polygon  6.783011e-01
+ genre_Anthropomorphic  6.512532e-01
+         genre_Romance  4.449906e-01
+          genre_Horror  4.401582e-01
+              rating_r  4.008851e-01
+         genre_Shounen  3.944428e-01
+     genre_Time Travel  3.265467e-01
+      genre_Historical  1.187114e-01
+       genre_Workplace  0.000000e+00
+     genre_Delinquents -4.829470e-15
+   genre_Otaku Culture -6.217249e-15
+       genre_Childcare -1.276756e-14
+        genre_Survival -1.305544e-01
+          genre_Sci-Fi -3.865125e-01
+          genre_School -4.314522e-01
+          genre_Sports -4.546610e-01
+     genre_Team Sports -4.546610e-01
+           genre_Ecchi -6.392657e-01
+   genre_Reincarnation -6.392657e-01
+ genre_Love Status Quo -7.477168e-01
+         genre_Mystery -9.113397e-01
+           genre_Space -1.386923e+00
+      genre_Adult Cast -1.523384e+00
+    genre_Supernatural -1.593427e+00
+            genre_Gore -1.675700e+00
+          genre_Parody -2.075626e+00
+          rating_pg_13 -2.506750e+00
+        genre_Suspense -2.661849e+00
+           genre_Mecha -2.750845e+00
+           genre_Drama -2.994538e+00
+          genre_Action -3.162346e+00
+         genre_Fantasy -3.504787e+00
+          num_episodes -4.282822e+00

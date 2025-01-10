@@ -1,0 +1,4085 @@
+[
+    {
+        "id": 1535,
+        "title": "Death Note",
+        "start_date": "2006-10-04",
+        "end_date": "2007-06-27",
+        "mean": 8.62,
+        "rank": 87,
+        "popularity": 2,
+        "num_list_users": 4032098,
+        "num_scoring_users": 2827732,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 8,
+            "num_episodes_watched": 22,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:26:03+00:00"
+        },
+        "num_episodes": 37,
+        "start_season": {
+            "year": 2006,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "wednesday",
+            "start_time": "00:56"
+        },
+        "source": "manga",
+        "average_episode_duration": 1380,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "199206",
+                "completed": "3356202",
+                "on_hold": "111922",
+                "dropped": "122750",
+                "plan_to_watch": "241897"
+            },
+            "num_list_users": 4031977
+        }
+    },
+    {
+        "id": 40052,
+        "title": "Great Pretender",
+        "start_date": "2020-07-09",
+        "end_date": "2020-12-17",
+        "mean": 8.2,
+        "rank": 394,
+        "popularity": 313,
+        "num_list_users": 695492,
+        "num_scoring_users": 334917,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 50,
+                "name": "Adult Cast"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 7,
+                "name": "Mystery"
+            },
+            {
+                "id": 68,
+                "name": "Organized Crime"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-03-21T21:34:54+00:00"
+        },
+        "num_episodes": 23,
+        "start_season": {
+            "year": 2020,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "00:55"
+        },
+        "source": "original",
+        "average_episode_duration": 1380,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "67192",
+                "completed": "371273",
+                "on_hold": "35583",
+                "dropped": "25597",
+                "plan_to_watch": "195806"
+            },
+            "num_list_users": 695451
+        }
+    },
+    {
+        "id": 30831,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "start_date": "2016-01-14",
+        "end_date": "2016-03-17",
+        "mean": 8.1,
+        "rank": 516,
+        "popularity": 38,
+        "num_list_users": 2035742,
+        "num_scoring_users": 1316087,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            },
+            {
+                "id": 20,
+                "name": "Parody"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 7,
+            "num_episodes_watched": 5,
+            "is_rewatching": false,
+            "updated_at": "2021-07-28T21:25:50+00:00"
+        },
+        "num_episodes": 10,
+        "start_season": {
+            "year": 2016,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "01:05"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 37,
+                "name": "Studio Deen"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "90764",
+                "completed": "1652465",
+                "on_hold": "32510",
+                "dropped": "38709",
+                "plan_to_watch": "221146"
+            },
+            "num_list_users": 2035594
+        }
+    },
+    {
+        "id": 32937,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "start_date": "2017-01-12",
+        "end_date": "2017-03-16",
+        "mean": 8.25,
+        "rank": 326,
+        "popularity": 76,
+        "num_list_users": 1570623,
+        "num_scoring_users": 1040864,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            },
+            {
+                "id": 20,
+                "name": "Parody"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 0,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-07-31T17:24:51+00:00"
+        },
+        "num_episodes": 10,
+        "start_season": {
+            "year": 2017,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "01:05"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1380,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 37,
+                "name": "Studio Deen"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "57591",
+                "completed": "1338883",
+                "on_hold": "17765",
+                "dropped": "14343",
+                "plan_to_watch": "141952"
+            },
+            "num_list_users": 1570534
+        }
+    },
+    {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "start_date": "2007-04-01",
+        "end_date": "2007-09-30",
+        "mean": 8.63,
+        "rank": 83,
+        "popularity": 67,
+        "num_list_users": 1662758,
+        "num_scoring_users": 923561,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 18,
+                "name": "Mecha"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2024-01-25T08:36:02+00:00"
+        },
+        "num_episodes": 27,
+        "start_season": {
+            "year": 2007,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "08:30"
+        },
+        "source": "original",
+        "average_episode_duration": 1460,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 6,
+                "name": "Gainax"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "101832",
+                "completed": "1071635",
+                "on_hold": "74315",
+                "dropped": "58637",
+                "plan_to_watch": "356268"
+            },
+            "num_list_users": 1662687
+        }
+    },
+    {
+        "id": 35507,
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "start_date": "2017-07-12",
+        "end_date": "2017-09-27",
+        "mean": 7.85,
+        "rank": 917,
+        "popularity": 103,
+        "num_list_users": 1345737,
+        "num_scoring_users": 845613,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "watching",
+            "score": 0,
+            "num_episodes_watched": 4,
+            "is_rewatching": false,
+            "updated_at": "2023-02-02T12:11:58+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2017,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "wednesday",
+            "start_time": "23:30"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 456,
+                "name": "Lerche"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "61563",
+                "completed": "1080942",
+                "on_hold": "15515",
+                "dropped": "19553",
+                "plan_to_watch": "168036"
+            },
+            "num_list_users": 1345609
+        }
+    },
+    {
+        "id": 24833,
+        "title": "Ansatsu Kyoushitsu",
+        "start_date": "2015-01-10",
+        "end_date": "2015-06-20",
+        "mean": 8.08,
+        "rank": 543,
+        "popularity": 34,
+        "num_list_users": 2088570,
+        "num_scoring_users": 1232519,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 22,
+            "is_rewatching": false,
+            "updated_at": "2019-09-06T17:39:39+00:00"
+        },
+        "num_episodes": 22,
+        "start_season": {
+            "year": 2015,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "00:55"
+        },
+        "source": "manga",
+        "average_episode_duration": 1380,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 456,
+                "name": "Lerche"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "122445",
+                "completed": "1536200",
+                "on_hold": "77095",
+                "dropped": "70980",
+                "plan_to_watch": "281756"
+            },
+            "num_list_users": 2088476
+        }
+    },
+    {
+        "id": 30654,
+        "title": "Ansatsu Kyoushitsu 2nd Season",
+        "start_date": "2016-01-08",
+        "end_date": "2016-07-01",
+        "mean": 8.48,
+        "rank": 147,
+        "popularity": 86,
+        "num_list_users": 1482952,
+        "num_scoring_users": 921604,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-09-06T17:40:26+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2016,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "friday",
+            "start_time": "01:25"
+        },
+        "source": "manga",
+        "average_episode_duration": 1380,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 456,
+                "name": "Lerche"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "65170",
+                "completed": "1196864",
+                "on_hold": "32521",
+                "dropped": "20991",
+                "plan_to_watch": "167349"
+            },
+            "num_list_users": 1482895
+        }
+    },
+    {
+        "id": 39195,
+        "title": "Beastars",
+        "start_date": "2019-10-10",
+        "end_date": "2019-12-26",
+        "mean": 7.8,
+        "rank": 1016,
+        "popularity": 206,
+        "num_list_users": 890235,
+        "num_scoring_users": 551769,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 51,
+                "name": "Anthropomorphic"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-06-17T19:59:08+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2019,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "00:55"
+        },
+        "source": "manga",
+        "average_episode_duration": 1377,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 1109,
+                "name": "Orange"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "40049",
+                "completed": "670855",
+                "on_hold": "17660",
+                "dropped": "28469",
+                "plan_to_watch": "133176"
+            },
+            "num_list_users": 890209
+        }
+    },
+    {
+        "id": 40935,
+        "title": "Beastars 2nd Season",
+        "start_date": "2021-01-07",
+        "end_date": "2021-03-25",
+        "mean": 7.77,
+        "rank": 1093,
+        "popularity": 512,
+        "num_list_users": 462364,
+        "num_scoring_users": 241080,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 51,
+                "name": "Anthropomorphic"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-07-23T09:36:37+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2021,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "00:55"
+        },
+        "source": "manga",
+        "average_episode_duration": 1370,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 1109,
+                "name": "Orange"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "31490",
+                "completed": "297800",
+                "on_hold": "10262",
+                "dropped": "7843",
+                "plan_to_watch": "114957"
+            },
+            "num_list_users": 462352
+        }
+    },
+    {
+        "id": 49596,
+        "title": "Blue Lock",
+        "start_date": "2022-10-09",
+        "end_date": "2023-03-26",
+        "mean": 8.21,
+        "rank": 372,
+        "popularity": 269,
+        "num_list_users": 766665,
+        "num_scoring_users": 410015,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2024-11-19T11:50:18+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2022,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:30"
+        },
+        "source": "manga",
+        "average_episode_duration": 1490,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 441,
+                "name": "8bit"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "145966",
+                "completed": "448131",
+                "on_hold": "23466",
+                "dropped": "28382",
+                "plan_to_watch": "120636"
+            },
+            "num_list_users": 766581
+        }
+    },
+    {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "start_date": "2016-04-03",
+        "end_date": "2016-06-26",
+        "mean": 7.85,
+        "rank": 920,
+        "popularity": 7,
+        "num_list_users": 3120755,
+        "num_scoring_users": 2124632,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:24:31+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2016,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "17:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1470,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "137108",
+                "completed": "2733125",
+                "on_hold": "31049",
+                "dropped": "44715",
+                "plan_to_watch": "174669"
+            },
+            "num_list_users": 3120666
+        }
+    },
+    {
+        "id": 33486,
+        "title": "Boku no Hero Academia 2nd Season",
+        "start_date": "2017-04-01",
+        "end_date": "2017-09-30",
+        "mean": 8.06,
+        "rank": 569,
+        "popularity": 15,
+        "num_list_users": 2596067,
+        "num_scoring_users": 1768591,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:24:59+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2017,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "17:30"
+        },
+        "source": "manga",
+        "average_episode_duration": 1430,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "126224",
+                "completed": "2323596",
+                "on_hold": "21423",
+                "dropped": "21979",
+                "plan_to_watch": "102795"
+            },
+            "num_list_users": 2596017
+        }
+    },
+    {
+        "id": 36456,
+        "title": "Boku no Hero Academia 3rd Season",
+        "start_date": "2018-04-07",
+        "end_date": "2018-09-29",
+        "mean": 8,
+        "rank": 661,
+        "popularity": 26,
+        "num_list_users": 2255966,
+        "num_scoring_users": 1481330,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:24:38+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2018,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "17:30"
+        },
+        "source": "manga",
+        "average_episode_duration": 1400,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "133644",
+                "completed": "1954185",
+                "on_hold": "22439",
+                "dropped": "23243",
+                "plan_to_watch": "122407"
+            },
+            "num_list_users": 2255918
+        }
+    },
+    {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "start_date": "2006-10-06",
+        "end_date": "2007-07-29",
+        "mean": 8.7,
+        "rank": 61,
+        "popularity": 22,
+        "num_list_users": 2324538,
+        "num_scoring_users": 1439828,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 18,
+                "name": "Mecha"
+            },
+            {
+                "id": 38,
+                "name": "Military"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:52:14+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2006,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "friday",
+            "start_time": "01:25"
+        },
+        "source": "original",
+        "average_episode_duration": 1440,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 14,
+                "name": "Sunrise"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "113893",
+                "completed": "1739728",
+                "on_hold": "63510",
+                "dropped": "47056",
+                "plan_to_watch": "360264"
+            },
+            "num_list_users": 2324451
+        }
+    },
+    {
+        "id": 2904,
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "start_date": "2008-04-06",
+        "end_date": "2008-09-28",
+        "mean": 8.91,
+        "rank": 20,
+        "popularity": 47,
+        "num_list_users": 1838745,
+        "num_scoring_users": 1228054,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 18,
+                "name": "Mecha"
+            },
+            {
+                "id": 38,
+                "name": "Military"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:22:30+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2008,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "17:00"
+        },
+        "source": "original",
+        "average_episode_duration": 1440,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 14,
+                "name": "Sunrise"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "60744",
+                "completed": "1521490",
+                "on_hold": "26156",
+                "dropped": "18763",
+                "plan_to_watch": "211543"
+            },
+            "num_list_users": 1838696
+        }
+    },
+    {
+        "id": 28223,
+        "title": "Death Parade",
+        "start_date": "2015-01-10",
+        "end_date": "2015-03-28",
+        "mean": 8.14,
+        "rank": 471,
+        "popularity": 48,
+        "num_list_users": 1824966,
+        "num_scoring_users": 1037023,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 50,
+                "name": "Adult Cast"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 59,
+                "name": "High Stakes Game"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-02-04T20:29:21+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2015,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "01:58"
+        },
+        "source": "original",
+        "average_episode_duration": 1380,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "90690",
+                "completed": "1278475",
+                "on_hold": "51313",
+                "dropped": "42129",
+                "plan_to_watch": "362282"
+            },
+            "num_list_users": 1824889
+        }
+    },
+    {
+        "id": 20583,
+        "title": "Haikyuu!!",
+        "start_date": "2014-04-06",
+        "end_date": "2014-09-21",
+        "mean": 8.44,
+        "rank": 173,
+        "popularity": 37,
+        "num_list_users": 2044925,
+        "num_scoring_users": 1270873,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2024-11-19T11:49:52+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2014,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "17:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 10,
+                "name": "Production I.G"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "128083",
+                "completed": "1587830",
+                "on_hold": "53239",
+                "dropped": "45880",
+                "plan_to_watch": "229831"
+            },
+            "num_list_users": 2044863
+        }
+    },
+    {
+        "id": 15809,
+        "title": "Hataraku Maou-sama!",
+        "start_date": "2013-04-04",
+        "end_date": "2013-06-27",
+        "mean": 7.72,
+        "rank": 1237,
+        "popularity": 73,
+        "num_list_users": 1602565,
+        "num_scoring_users": 975610,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2019-09-14T16:36:45+00:00",
+            "start_date": "2019-09-13",
+            "finish_date": "2019-09-14"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2013,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "22:00"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 314,
+                "name": "White Fox"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "65234",
+                "completed": "1261111",
+                "on_hold": "30488",
+                "dropped": "27266",
+                "plan_to_watch": "218360"
+            },
+            "num_list_users": 1602459
+        }
+    },
+    {
+        "id": 42361,
+        "title": "Ijiranaide, Nagatoro-san",
+        "start_date": "2021-04-11",
+        "end_date": "2021-06-27",
+        "mean": 7.22,
+        "rank": 3242,
+        "popularity": 237,
+        "num_list_users": 834547,
+        "num_scoring_users": 451935,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 74,
+                "name": "Love Status Quo"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-07-28T17:16:59+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2021,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:00"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1420,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 94,
+                "name": "Telecom Animation Film"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "87424",
+                "completed": "518500",
+                "on_hold": "20009",
+                "dropped": "47739",
+                "plan_to_watch": "160788"
+            },
+            "num_list_users": 834460
+        }
+    },
+    {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "start_date": "2020-10-03",
+        "end_date": "2021-03-27",
+        "mean": 8.57,
+        "rank": 107,
+        "popularity": 13,
+        "num_list_users": 2721556,
+        "num_scoring_users": 1785704,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2021-07-04T19:40:29+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2020,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "01:25"
+        },
+        "source": "manga",
+        "average_episode_duration": 1435,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 569,
+                "name": "MAPPA"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "354658",
+                "completed": "2089119",
+                "on_hold": "46240",
+                "dropped": "30532",
+                "plan_to_watch": "200859"
+            },
+            "num_list_users": 2721408
+        }
+    },
+    {
+        "id": 37999,
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "start_date": "2019-01-12",
+        "end_date": "2019-03-30",
+        "mean": 8.4,
+        "rank": 194,
+        "popularity": 52,
+        "num_list_users": 1809698,
+        "num_scoring_users": 1136761,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 42,
+                "name": "Seinen"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-10-03T23:16:36+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2019,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "23:30"
+        },
+        "source": "manga",
+        "average_episode_duration": 1500,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 56,
+                "name": "A-1 Pictures"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "107285",
+                "completed": "1388624",
+                "on_hold": "35606",
+                "dropped": "33563",
+                "plan_to_watch": "244516"
+            },
+            "num_list_users": 1809594
+        }
+    },
+    {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "start_date": "2019-04-06",
+        "end_date": "2019-09-28",
+        "mean": 8.44,
+        "rank": 171,
+        "popularity": 5,
+        "num_list_users": 3177954,
+        "num_scoring_users": 2185528,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 13,
+                "name": "Historical"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 26,
+            "is_rewatching": false,
+            "updated_at": "2021-07-28T17:20:52+00:00"
+        },
+        "num_episodes": 26,
+        "start_season": {
+            "year": 2019,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "23:30"
+        },
+        "source": "manga",
+        "average_episode_duration": 1420,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 43,
+                "name": "ufotable"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "222551",
+                "completed": "2676878",
+                "on_hold": "44986",
+                "dropped": "44897",
+                "plan_to_watch": "188516"
+            },
+            "num_list_users": 3177828
+        }
+    },
+    {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "start_date": "2016-08-26",
+        "end_date": "2016-08-26",
+        "mean": 8.83,
+        "rank": 28,
+        "popularity": 11,
+        "num_list_users": 2841566,
+        "num_scoring_users": 1963424,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:22:20+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2016,
+            "season": "summer"
+        },
+        "source": "original",
+        "average_episode_duration": 6391,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 291,
+                "name": "CoMix Wave Films"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "64345",
+                "completed": "2461018",
+                "on_hold": "7457",
+                "dropped": "4069",
+                "plan_to_watch": "304544"
+            },
+            "num_list_users": 2841433
+        }
+    },
+    {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "start_date": "2014-10-09",
+        "end_date": "2015-03-26",
+        "mean": 8.33,
+        "rank": 248,
+        "popularity": 42,
+        "num_list_users": 1932752,
+        "num_scoring_users": 1191670,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 14,
+                "name": "Horror"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 42,
+                "name": "Seinen"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:25:21+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2014,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "01:29"
+        },
+        "source": "manga",
+        "average_episode_duration": 1380,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "98075",
+                "completed": "1474723",
+                "on_hold": "45820",
+                "dropped": "35911",
+                "plan_to_watch": "278135"
+            },
+            "num_list_users": 1932664
+        }
+    },
+    {
+        "id": 11771,
+        "title": "Kuroko no Basket",
+        "start_date": "2012-04-08",
+        "end_date": "2012-09-22",
+        "mean": 8.05,
+        "rank": 589,
+        "popularity": 117,
+        "num_list_users": 1242585,
+        "num_scoring_users": 732925,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:32:25+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2012,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:58"
+        },
+        "source": "manga",
+        "average_episode_duration": 1450,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 10,
+                "name": "Production I.G"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "68945",
+                "completed": "939055",
+                "on_hold": "36021",
+                "dropped": "34972",
+                "plan_to_watch": "163551"
+            },
+            "num_list_users": 1242544
+        }
+    },
+    {
+        "id": 16894,
+        "title": "Kuroko no Basket 2nd Season",
+        "start_date": "2013-10-06",
+        "end_date": "2014-03-30",
+        "mean": 8.2,
+        "rank": 382,
+        "popularity": 211,
+        "num_list_users": 881136,
+        "num_scoring_users": 560023,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:32:40+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2013,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:58"
+        },
+        "source": "manga",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 10,
+                "name": "Production I.G"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "32710",
+                "completed": "755967",
+                "on_hold": "11842",
+                "dropped": "8250",
+                "plan_to_watch": "72355"
+            },
+            "num_list_users": 881124
+        }
+    },
+    {
+        "id": 24415,
+        "title": "Kuroko no Basket 3rd Season",
+        "start_date": "2015-01-11",
+        "end_date": "2015-06-30",
+        "mean": 8.29,
+        "rank": 284,
+        "popularity": 260,
+        "num_list_users": 786721,
+        "num_scoring_users": 486368,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:32:32+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2015,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:58"
+        },
+        "source": "manga",
+        "average_episode_duration": 1450,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 10,
+                "name": "Production I.G"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "33539",
+                "completed": "654985",
+                "on_hold": "12014",
+                "dropped": "7594",
+                "plan_to_watch": "78572"
+            },
+            "num_list_users": 786704
+        }
+    },
+    {
+        "id": 18115,
+        "title": "Magi: The Kingdom of Magic",
+        "start_date": "2013-10-06",
+        "end_date": "2014-03-30",
+        "mean": 8.21,
+        "rank": 377,
+        "popularity": 216,
+        "num_list_users": 863263,
+        "num_scoring_users": 467693,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 0,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2020-09-28T21:24:54+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2013,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "17:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1500,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 56,
+                "name": "A-1 Pictures"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "38304",
+                "completed": "626016",
+                "on_hold": "19463",
+                "dropped": "15655",
+                "plan_to_watch": "163786"
+            },
+            "num_list_users": 863224
+        }
+    },
+    {
+        "id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "start_date": "2011-10-09",
+        "end_date": "2012-04-15",
+        "mean": 7.39,
+        "rank": 2369,
+        "popularity": 35,
+        "num_list_users": 2058500,
+        "num_scoring_users": 1235480,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 59,
+                "name": "High Stakes Game"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            },
+            {
+                "id": 76,
+                "name": "Survival"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 26,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:23:19+00:00"
+        },
+        "num_episodes": 26,
+        "start_season": {
+            "year": 2011,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "23:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1420,
+        "rating": "r+",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 163,
+                "name": "asread."
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "91359",
+                "completed": "1521494",
+                "on_hold": "51394",
+                "dropped": "79043",
+                "plan_to_watch": "315107"
+            },
+            "num_list_users": 2058397
+        }
+    },
+    {
+        "id": 16762,
+        "title": "Mirai Nikki: Redial",
+        "start_date": "2013-06-19",
+        "end_date": "2013-06-19",
+        "mean": 7.28,
+        "rank": 2933,
+        "popularity": 686,
+        "num_list_users": 362024,
+        "num_scoring_users": 225286,
+        "media_type": "ova",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:23:27+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2013,
+            "season": "spring"
+        },
+        "source": "manga",
+        "average_episode_duration": 1797,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 163,
+                "name": "asread."
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "4035",
+                "completed": "318400",
+                "on_hold": "1475",
+                "dropped": "983",
+                "plan_to_watch": "37109"
+            },
+            "num_list_users": 362002
+        }
+    },
+    {
+        "id": 32182,
+        "title": "Mob Psycho 100",
+        "start_date": "2016-07-11",
+        "end_date": "2016-09-27",
+        "mean": 8.49,
+        "rank": 145,
+        "popularity": 29,
+        "num_list_users": 2163847,
+        "num_scoring_users": 1327186,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-09-07T20:45:42+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2016,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "tuesday",
+            "start_time": "00:00"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "115225",
+                "completed": "1656089",
+                "on_hold": "43627",
+                "dropped": "31985",
+                "plan_to_watch": "316823"
+            },
+            "num_list_users": 2163749
+        }
+    },
+    {
+        "id": 37510,
+        "title": "Mob Psycho 100 II",
+        "start_date": "2019-01-07",
+        "end_date": "2019-04-01",
+        "mean": 8.79,
+        "rank": 33,
+        "popularity": 74,
+        "num_list_users": 1602242,
+        "num_scoring_users": 1010829,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-05-19T20:31:04+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2019,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "monday",
+            "start_time": "23:00"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1450,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "84590",
+                "completed": "1269837",
+                "on_hold": "20026",
+                "dropped": "8512",
+                "plan_to_watch": "219228"
+            },
+            "num_list_users": 1602193
+        }
+    },
+    {
+        "id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "start_date": "2021-01-11",
+        "end_date": "2021-03-22",
+        "mean": 8.36,
+        "rank": 223,
+        "popularity": 95,
+        "num_list_users": 1419968,
+        "num_scoring_users": 875165,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 9,
+                "name": "Ecchi"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            },
+            {
+                "id": 72,
+                "name": "Reincarnation"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 0,
+            "num_episodes_watched": 11,
+            "is_rewatching": false,
+            "updated_at": "2024-01-16T17:53:24+00:00"
+        },
+        "num_episodes": 11,
+        "start_season": {
+            "year": 2021,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "monday",
+            "start_time": "00:00"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 1993,
+                "name": "Studio Bind"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "107319",
+                "completed": "1085621",
+                "on_hold": "14547",
+                "dropped": "21017",
+                "plan_to_watch": "191289"
+            },
+            "num_list_users": 1419793
+        }
+    },
+    {
+        "id": 19815,
+        "title": "No Game No Life",
+        "start_date": "2014-04-09",
+        "end_date": "2014-06-25",
+        "mean": 8.05,
+        "rank": 592,
+        "popularity": 19,
+        "num_list_users": 2458202,
+        "num_scoring_users": 1570379,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 9,
+                "name": "Ecchi"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            },
+            {
+                "id": 11,
+                "name": "Strategy Game"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:26:58+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2014,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "wednesday",
+            "start_time": "21:30"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1380,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "91378",
+                "completed": "1996075",
+                "on_hold": "37772",
+                "dropped": "59967",
+                "plan_to_watch": "272884"
+            },
+            "num_list_users": 2458076
+        }
+    },
+    {
+        "id": 30503,
+        "title": "Noragami Aragoto",
+        "start_date": "2015-10-03",
+        "end_date": "2015-12-26",
+        "mean": 8.14,
+        "rank": 464,
+        "popularity": 84,
+        "num_list_users": 1490849,
+        "num_scoring_users": 915299,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 6,
+                "name": "Mythology"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2020-09-28T21:25:35+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2015,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "01:05"
+        },
+        "source": "manga",
+        "average_episode_duration": 1450,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 4,
+                "name": "Bones"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "53056",
+                "completed": "1217508",
+                "on_hold": "22544",
+                "dropped": "14604",
+                "plan_to_watch": "183093"
+            },
+            "num_list_users": 1490805
+        }
+    },
+    {
+        "id": 5040,
+        "title": "One Outs",
+        "start_date": "2008-10-08",
+        "end_date": "2009-04-01",
+        "mean": 8.32,
+        "rank": 253,
+        "popularity": 1038,
+        "num_list_users": 245627,
+        "num_scoring_users": 118579,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 50,
+                "name": "Adult Cast"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 42,
+                "name": "Seinen"
+            },
+            {
+                "id": 30,
+                "name": "Sports"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            },
+            {
+                "id": 77,
+                "name": "Team Sports"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2020-09-28T21:24:20+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2008,
+            "season": "fall"
+        },
+        "source": "manga",
+        "average_episode_duration": 1380,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "12560",
+                "completed": "141051",
+                "on_hold": "8295",
+                "dropped": "6647",
+                "plan_to_watch": "77057"
+            },
+            "num_list_users": 245610
+        }
+    },
+    {
+        "id": 30276,
+        "title": "One Punch Man",
+        "start_date": "2015-10-05",
+        "end_date": "2015-12-21",
+        "mean": 8.49,
+        "rank": 146,
+        "popularity": 4,
+        "num_list_users": 3326046,
+        "num_scoring_users": 2299843,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 50,
+                "name": "Adult Cast"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 20,
+                "name": "Parody"
+            },
+            {
+                "id": 42,
+                "name": "Seinen"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:50:36+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2015,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "monday",
+            "start_time": "01:05"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1460,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "141397",
+                "completed": "2905440",
+                "on_hold": "45633",
+                "dropped": "42089",
+                "plan_to_watch": "191367"
+            },
+            "num_list_users": 3325926
+        }
+    },
+    {
+        "id": 40834,
+        "title": "Ousama Ranking",
+        "start_date": "2021-10-15",
+        "end_date": "2022-03-25",
+        "mean": 8.5,
+        "rank": 142,
+        "popularity": 315,
+        "num_list_users": 687771,
+        "num_scoring_users": 362143,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 23,
+            "is_rewatching": false,
+            "updated_at": "2024-11-19T11:48:25+00:00"
+        },
+        "num_episodes": 23,
+        "start_season": {
+            "year": 2021,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "friday",
+            "start_time": "00:55"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1370,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "103673",
+                "completed": "393771",
+                "on_hold": "24731",
+                "dropped": "16483",
+                "plan_to_watch": "149048"
+            },
+            "num_list_users": 687706
+        }
+    },
+    {
+        "id": 29803,
+        "title": "Overlord",
+        "start_date": "2015-07-07",
+        "end_date": "2015-09-29",
+        "mean": 7.91,
+        "rank": 803,
+        "popularity": 68,
+        "num_list_users": 1658292,
+        "num_scoring_users": 982547,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:53:38+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2015,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "tuesday",
+            "start_time": "23:00"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1457,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "78565",
+                "completed": "1272911",
+                "on_hold": "31019",
+                "dropped": "43289",
+                "plan_to_watch": "232366"
+            },
+            "num_list_users": 1658150
+        }
+    },
+    {
+        "id": 35073,
+        "title": "Overlord II",
+        "start_date": "2018-01-09",
+        "end_date": "2018-04-03",
+        "mean": 7.75,
+        "rank": 1145,
+        "popularity": 154,
+        "num_list_users": 1067619,
+        "num_scoring_users": 660156,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:53:47+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2018,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "tuesday",
+            "start_time": "22:30"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "48609",
+                "completed": "885320",
+                "on_hold": "12541",
+                "dropped": "13395",
+                "plan_to_watch": "107670"
+            },
+            "num_list_users": 1067535
+        }
+    },
+    {
+        "id": 37675,
+        "title": "Overlord III",
+        "start_date": "2018-07-10",
+        "end_date": "2018-10-02",
+        "mean": 7.91,
+        "rank": 804,
+        "popularity": 187,
+        "num_list_users": 950354,
+        "num_scoring_users": 587070,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 62,
+                "name": "Isekai"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:53:55+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2018,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "tuesday",
+            "start_time": "22:00"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "35494",
+                "completed": "797110",
+                "on_hold": "7266",
+                "dropped": "7187",
+                "plan_to_watch": "103223"
+            },
+            "num_list_users": 950280
+        }
+    },
+    {
+        "id": 30015,
+        "title": "ReLIFE",
+        "start_date": "2016-07-02",
+        "end_date": "2016-09-24",
+        "mean": 7.96,
+        "rank": 706,
+        "popularity": 150,
+        "num_list_users": 1074950,
+        "num_scoring_users": 598969,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2020-10-08T10:55:33+00:00"
+        },
+        "num_episodes": 13,
+        "start_season": {
+            "year": 2016,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "00:00"
+        },
+        "source": "web_manga",
+        "average_episode_duration": 1420,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 73,
+                "name": "TMS Entertainment"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "48294",
+                "completed": "755466",
+                "on_hold": "22024",
+                "dropped": "22610",
+                "plan_to_watch": "226488"
+            },
+            "num_list_users": 1074882
+        }
+    },
+    {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "start_date": "2013-04-07",
+        "end_date": "2013-09-29",
+        "mean": 8.55,
+        "rank": 118,
+        "popularity": 1,
+        "num_list_users": 4083912,
+        "num_scoring_users": 2883228,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 38,
+                "name": "Military"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 76,
+                "name": "Survival"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T16:57:33+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2013,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "01:58"
+        },
+        "source": "manga",
+        "average_episode_duration": 1440,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "205965",
+                "completed": "3584856",
+                "on_hold": "52355",
+                "dropped": "62742",
+                "plan_to_watch": "177856"
+            },
+            "num_list_users": 4083774
+        }
+    },
+    {
+        "id": 25777,
+        "title": "Shingeki no Kyojin Season 2",
+        "start_date": "2017-04-01",
+        "end_date": "2017-06-17",
+        "mean": 8.52,
+        "rank": 130,
+        "popularity": 12,
+        "num_list_users": 2822184,
+        "num_scoring_users": 1931905,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 38,
+                "name": "Military"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 76,
+                "name": "Survival"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 0,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-09-28T21:22:54+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2017,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "22:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1450,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "89686",
+                "completed": "2531916",
+                "on_hold": "17943",
+                "dropped": "16791",
+                "plan_to_watch": "165781"
+            },
+            "num_list_users": 2822117
+        }
+    },
+    {
+        "id": 38524,
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "start_date": "2019-04-29",
+        "end_date": "2019-07-01",
+        "mean": 9.05,
+        "rank": 5,
+        "popularity": 21,
+        "num_list_users": 2383650,
+        "num_scoring_users": 1654707,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 38,
+                "name": "Military"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 76,
+                "name": "Survival"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 10,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:22:05+00:00"
+        },
+        "num_episodes": 10,
+        "start_season": {
+            "year": 2019,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "monday",
+            "start_time": "00:10"
+        },
+        "source": "manga",
+        "average_episode_duration": 1435,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "81414",
+                "completed": "2152030",
+                "on_hold": "9652",
+                "dropped": "7999",
+                "plan_to_watch": "132495"
+            },
+            "num_list_users": 2383590
+        }
+    },
+    {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "start_date": "2011-04-06",
+        "end_date": "2011-09-14",
+        "mean": 9.07,
+        "rank": 4,
+        "popularity": 14,
+        "num_list_users": 2648408,
+        "num_scoring_users": 1439846,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            },
+            {
+                "id": 78,
+                "name": "Time Travel"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2019-08-07T23:32:54+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2011,
+            "season": "spring"
+        },
+        "broadcast": {
+            "day_of_the_week": "wednesday",
+            "start_time": "02:05"
+        },
+        "source": "visual_novel",
+        "average_episode_duration": 1460,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 314,
+                "name": "White Fox"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "173095",
+                "completed": "1660600",
+                "on_hold": "91546",
+                "dropped": "58086",
+                "plan_to_watch": "664968"
+            },
+            "num_list_users": 2648295
+        }
+    },
+    {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "start_date": "2013-04-20",
+        "end_date": "2013-04-20",
+        "mean": 8.45,
+        "rank": 166,
+        "popularity": 374,
+        "num_list_users": 611196,
+        "num_scoring_users": 365062,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 6,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-09-07T20:45:25+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2013,
+            "season": "spring"
+        },
+        "source": "visual_novel",
+        "average_episode_duration": 5400,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 314,
+                "name": "White Fox"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "10307",
+                "completed": "468776",
+                "on_hold": "3607",
+                "dropped": "1509",
+                "plan_to_watch": "126968"
+            },
+            "num_list_users": 611167
+        }
+    },
+    {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "start_date": "2012-07-08",
+        "end_date": "2012-12-23",
+        "mean": 7.21,
+        "rank": 3284,
+        "popularity": 6,
+        "num_list_users": 3156465,
+        "num_scoring_users": 2194937,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 64,
+                "name": "Love Polygon"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 79,
+                "name": "Video Game"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 4,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2019-09-06T21:59:58+00:00"
+        },
+        "num_episodes": 25,
+        "start_season": {
+            "year": 2012,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "sunday",
+            "start_time": "00:00"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 56,
+                "name": "A-1 Pictures"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "115623",
+                "completed": "2702664",
+                "on_hold": "37174",
+                "dropped": "130210",
+                "plan_to_watch": "170642"
+            },
+            "num_list_users": 3156313
+        }
+    },
+    {
+        "id": 21881,
+        "title": "Sword Art Online II",
+        "start_date": "2014-07-05",
+        "end_date": "2014-12-20",
+        "mean": 6.71,
+        "rank": 5765,
+        "popularity": 40,
+        "num_list_users": 2028158,
+        "num_scoring_users": 1362039,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 64,
+                "name": "Love Polygon"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 79,
+                "name": "Video Game"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 5,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2019-08-02T12:33:31+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2014,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "saturday",
+            "start_time": "23:30"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1420,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 56,
+                "name": "A-1 Pictures"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "80281",
+                "completed": "1726126",
+                "on_hold": "29747",
+                "dropped": "87483",
+                "plan_to_watch": "104452"
+            },
+            "num_list_users": 2028089
+        }
+    },
+    {
+        "id": 38826,
+        "title": "Tenki no Ko",
+        "start_date": "2019-07-19",
+        "end_date": "2019-07-19",
+        "mean": 8.27,
+        "rank": 304,
+        "popularity": 157,
+        "num_list_users": 1047326,
+        "num_scoring_users": 630067,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2023-02-03T12:57:04+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2019,
+            "season": "summer"
+        },
+        "source": "original",
+        "average_episode_duration": 6733,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 291,
+                "name": "CoMix Wave Films"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "25560",
+                "completed": "790222",
+                "on_hold": "5742",
+                "dropped": "2106",
+                "plan_to_watch": "223602"
+            },
+            "num_list_users": 1047232
+        }
+    },
+    {
+        "id": 759,
+        "title": "Tokyo Godfathers",
+        "start_date": "2003-11-08",
+        "end_date": "2003-11-08",
+        "mean": 8.28,
+        "rank": 300,
+        "popularity": 840,
+        "num_list_users": 307177,
+        "num_scoring_users": 153725,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 53,
+                "name": "Childcare"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2023-02-02T10:10:22+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2003,
+            "season": "fall"
+        },
+        "source": "original",
+        "average_episode_duration": 5520,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 11,
+                "name": "Madhouse"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "6021",
+                "completed": "193125",
+                "on_hold": "2240",
+                "dropped": "993",
+                "plan_to_watch": "104784"
+            },
+            "num_list_users": 307163
+        }
+    },
+    {
+        "id": 37521,
+        "title": "Vinland Saga",
+        "start_date": "2019-07-08",
+        "end_date": "2019-12-30",
+        "mean": 8.76,
+        "rank": 43,
+        "popularity": 72,
+        "num_list_users": 1619473,
+        "num_scoring_users": 935873,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 58,
+                "name": "Gore"
+            },
+            {
+                "id": 13,
+                "name": "Historical"
+            },
+            {
+                "id": 42,
+                "name": "Seinen"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2020-10-03T23:14:25+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2019,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "monday",
+            "start_time": "00:10"
+        },
+        "source": "manga",
+        "average_episode_duration": 1492,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 858,
+                "name": "Wit Studio"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "142988",
+                "completed": "1097129",
+                "on_hold": "42150",
+                "dropped": "24138",
+                "plan_to_watch": "312987"
+            },
+            "num_list_users": 1619392
+        }
+    },
+    {
+        "id": 37779,
+        "title": "Yakusoku no Neverland",
+        "start_date": "2019-01-11",
+        "end_date": "2019-03-29",
+        "mean": 8.48,
+        "rank": 151,
+        "popularity": 39,
+        "num_list_users": 2035208,
+        "num_scoring_users": 1326059,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 7,
+                "name": "Mystery"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            },
+            {
+                "id": 76,
+                "name": "Survival"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-11-11T15:27:48+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2019,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "friday",
+            "start_time": "01:05"
+        },
+        "source": "manga",
+        "average_episode_duration": 1375,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 1835,
+                "name": "CloverWorks"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "98002",
+                "completed": "1639490",
+                "on_hold": "28302",
+                "dropped": "32227",
+                "plan_to_watch": "237126"
+            },
+            "num_list_users": 2035147
+        }
+    },
+    {
+        "id": 18153,
+        "title": "Kyoukai no Kanata",
+        "start_date": "2013-10-03",
+        "end_date": "2013-12-19",
+        "mean": 7.72,
+        "rank": 1222,
+        "popularity": 124,
+        "num_list_users": 1198070,
+        "num_scoring_users": 562898,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "plan_to_watch",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2021-07-27T12:44:42+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2013,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "00:30"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 1440,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 2,
+                "name": "Kyoto Animation"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "65114",
+                "completed": "719772",
+                "on_hold": "36799",
+                "dropped": "36138",
+                "plan_to_watch": "340159"
+            },
+            "num_list_users": 1197982
+        }
+    },
+    {
+        "id": 28675,
+        "title": "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
+        "start_date": "2015-04-25",
+        "end_date": "2015-04-25",
+        "mean": 8.14,
+        "rank": 462,
+        "popularity": 943,
+        "num_list_users": 269462,
+        "num_scoring_users": 138661,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 22,
+                "name": "Romance"
+            },
+            {
+                "id": 23,
+                "name": "School"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            }
+        ],
+        "my_list_status": {
+            "status": "plan_to_watch",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2019-11-26T21:46:09+00:00"
+        },
+        "num_episodes": 1,
+        "start_season": {
+            "year": 2015,
+            "season": "spring"
+        },
+        "source": "light_novel",
+        "average_episode_duration": 5400,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 2,
+                "name": "Kyoto Animation"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "6791",
+                "completed": "190173",
+                "on_hold": "2518",
+                "dropped": "1105",
+                "plan_to_watch": "68848"
+            },
+            "num_list_users": 269435
+        }
+    },
+    {
+        "id": 25835,
+        "title": "Shirobako",
+        "start_date": "2014-10-09",
+        "end_date": "2015-03-26",
+        "mean": 8.27,
+        "rank": 302,
+        "popularity": 527,
+        "num_list_users": 454774,
+        "num_scoring_users": 145485,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 50,
+                "name": "Adult Cast"
+            },
+            {
+                "id": 46,
+                "name": "Award Winning"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 69,
+                "name": "Otaku Culture"
+            },
+            {
+                "id": 48,
+                "name": "Workplace"
+            }
+        ],
+        "my_list_status": {
+            "status": "plan_to_watch",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2021-04-08T06:01:50+00:00"
+        },
+        "num_episodes": 24,
+        "start_season": {
+            "year": 2014,
+            "season": "fall"
+        },
+        "broadcast": {
+            "day_of_the_week": "thursday",
+            "start_time": "23:30"
+        },
+        "source": "original",
+        "average_episode_duration": 1482,
+        "rating": "pg_13",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 132,
+                "name": "P.A. Works"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "32734",
+                "completed": "162844",
+                "on_hold": "23437",
+                "dropped": "16999",
+                "plan_to_watch": "218736"
+            },
+            "num_list_users": 454750
+        }
+    },
+    {
+        "id": 38480,
+        "title": "Toaru Kagaku no Accelerator",
+        "start_date": "2019-07-12",
+        "end_date": "2019-09-27",
+        "mean": 7.21,
+        "rank": 3288,
+        "popularity": 1037,
+        "num_list_users": 245944,
+        "num_scoring_users": 102559,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 31,
+                "name": "Super Power"
+            }
+        ],
+        "my_list_status": {
+            "status": "plan_to_watch",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2019-09-07T14:54:45+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2019,
+            "season": "summer"
+        },
+        "broadcast": {
+            "day_of_the_week": "friday",
+            "start_time": "22:00"
+        },
+        "source": "manga",
+        "average_episode_duration": 1420,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 7,
+                "name": "J.C.Staff"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "15995",
+                "completed": "130473",
+                "on_hold": "6722",
+                "dropped": "8841",
+                "plan_to_watch": "83886"
+            },
+            "num_list_users": 245917
+        }
+    },
+    {
+        "id": 43299,
+        "title": "Wonder Egg Priority",
+        "start_date": "2021-01-13",
+        "end_date": "2021-03-31",
+        "mean": 7.57,
+        "rank": 1653,
+        "popularity": 261,
+        "num_list_users": 784969,
+        "num_scoring_users": 352736,
+        "media_type": "tv",
+        "status": "finished_airing",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 40,
+                "name": "Psychological"
+            },
+            {
+                "id": 37,
+                "name": "Supernatural"
+            },
+            {
+                "id": 41,
+                "name": "Suspense"
+            }
+        ],
+        "my_list_status": {
+            "status": "plan_to_watch",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2021-03-12T20:27:40+00:00"
+        },
+        "num_episodes": 12,
+        "start_season": {
+            "year": 2021,
+            "season": "winter"
+        },
+        "broadcast": {
+            "day_of_the_week": "wednesday",
+            "start_time": "01:29"
+        },
+        "source": "original",
+        "average_episode_duration": 1382,
+        "rating": "r",
+        "related_manga": [],
+        "studios": [
+            {
+                "id": 1835,
+                "name": "CloverWorks"
+            }
+        ],
+        "statistics": {
+            "status": {
+                "watching": "89448",
+                "completed": "389604",
+                "on_hold": "31202",
+                "dropped": "39068",
+                "plan_to_watch": "235608"
+            },
+            "num_list_users": 784930
+        }
+    }
+]
