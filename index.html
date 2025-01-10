@@ -24,16 +24,20 @@
     <div id="inputScreen" class="screen active">
         <p>Try to guess the answers by two info. My name is Ege Balyalı. I look like this:</p>
         <img src="static/images/instafoto.jpg" alt="Instafoto" style="max-width: 50%; height: auto;">
-        <p id="image-roast">Not the <b>most original pose</b>, but I watch anime; what was the expectation?</p>
+        <p id="image-roast">Not the <b>most original pose</b>, but I watch anime what was the expectation</p>
         <div id="infoContainer">
             <p id="info1">Q1</p>
             <div id="quiz1" class="quiz"></div>
+            
             <p id="info2">Q2</p>
             <div id="quiz2" class="quiz"></div>
+            
             <p id="info3">Q3</p>
             <div id="quiz3" class="quiz"></div>
+            
             <p id="info4">Q4</p>
             <div id="quiz4" class="quiz"></div>
+            
             <p id="info5">Q5</p>
             <div id="quiz5" class="quiz"></div>
         </div>
@@ -41,11 +45,52 @@
         <p id="quizResult"></p>
 
         <h1 id="website-header">This Website</h1>
-        <p id="welcome-paragraph">
-            Welcome to my website (you guessed it, on GitHub Pages) about my taste in anime and manga...
-        </p>
-        <!-- More static content here -->
+        <p id="welcome-paragraph"> Welcome to my website on (you guessed it by github page) my taste in anime and manga. Am I a super tasteful person by any means. Nope. Doesn't stop me from running my mouth though. But there 
+            is a little problem for my friends when I talk to them about anime. They always get bewildered by my scores. So I want to take this opportunity to find out if I am a basic anime and manga consumer or an eccentric one.
+            And I also want to give a chance for my friends to know my scores beforehand so they can get bewildered in their own time. Hence this website has my score against some metrics and a regression model that guesses my score given a myanimelist url.
 
+        </p>
+        <h2 id="hyphotheses">My hyphotheses</h2>
+        <ul id="hypothesis-list">
+            <li>There is a correlation between the popularity of a show and my score</li>
+            <li>There is a correlation between the mean of general public and my score(Hopefully null is true on this one)</li>
+            <li>The amount of chapters or episodes that exist have a correlation with my score</li>
+        </ul>
+        <h3>Popularity vs My Score</h3>
+        <p>Let's start with the popularity vs score. I believed there would be a correlation betwwen my score and popularity. Even if I am quite different popular shows are good at storytelling and art. Thats how they gor the mass appeal. I hyphotjesied a strong negative correlation. 
+
+            The problem appeared after I got the data. I turned out to be average. In a way that I almost exclusively read the top 150 or so stuff. I am not even angry at myself for it. I have limited time and I don't eant to risk am unpopular manga or anime. Plus they get weirder after some point. Like what is my sister can't be this cute. No disresoect to people reading it. I just don't want to. And that is really popular. Maybe this was why anime was ostracized.
+            
+            Well the correlation was still found. And like I argued it makes sense.</p>
+            <img src="static/mangagraphs/Normalized_popularity_vs_MyScore.png"  >
+            <p>There is a good correlation according to spearman correlation. And this is obviously nonlinear so pearson is a better way to calculate. Same graph for anime is:</p>
+            <img src="static/graphs/popularity_vs_myscore.png">
+
+
+            <h3>Mean vs My score</h3>
+            <p>Similar to the popularity tanking peoples scores paint a picture on general quality of the work. So the better
+                and more meaningful data was to study my approach to genres compared to other the mean of other users. For mangas:
+            </p>
+            <img src="static/mangagraphs/taste_difference_by_genre_with_corr.png" >
+            <p>And for anime:</p>
+            <img src="static/graphs/taste_difference_by_genre.png">
+            <p>I apparently hate every anime more than other people. This information will be kind of fun to compare to the coefficients for the regression model.
+                Spoiler, to see that part put an anime url from my anime list to the anime predictor form.
+            </p>
+
+            <h3>Lenght vs My Score</h3>
+            <p>This one is interesting. Some mangas have 1000+ chapters while some get the job done in 100. I think I like longer running stuff better. They have more story, more time to connect to the characters and a sense of achievement tied to it. For anime:</p>
+            <img src="static/graphs/normalized_num_episodes_vs_mean_score.png">
+            <p>There isn't any meaningful correlation here. We fail to reject the null hyphothesis. For manga:</p>
+            <img src="static/mangagraphs/chapters_read_vs_score.png">
+            <p>The same deal happens here too.</p>
+
+            <h1>Conclusion</h1>
+            <p>We have found some meaningful correlation, as well as some meaningless ones. But we can't lose sight of our main objective. Help my friends
+                understand my taste. But after seeing my incredibly basic ideas surrounding these mediums you might ask yourselves, how can people argue with your takes. 
+                You would be <b>correct.</b> Because I don't have friends and needed to have an excuse to run some data analysis on my anime and manga preferences. 
+                Now please experience my state of the art ege predictor.
+            </p>
         <h1>Ege Score Predictor</h1>
         <form id="predictionForm">
             <label for="url">Enter Anime URL:</label>
@@ -147,12 +192,14 @@
 
             inputScreen.classList.remove('active');
             outputScreen.classList.add('active');
+            window.scrollTo(0, 0);
         });
 
         backButton.addEventListener('click', () => {
             predictionForm.reset();
             outputScreen.classList.remove('active');
             inputScreen.classList.add('active');
+
         });
     </script>
 </body>
