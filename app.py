@@ -5,19 +5,19 @@ import re
 app = Flask(__name__)
 
 # Load the pre-trained regression model
-with open('model.pkl', 'rb') as f:
+with open('anime_score_predictor.pkl', 'rb') as f:
     model = pickle.load(f)
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('./index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
     url = request.form['url']
     
     # Extract the ID from the URL (adjust this regex to match your URL structure)
-    match = re.search(r'(\d+)', url)
+    
     if match:
         url_id = int(match.group(1))
     else:
